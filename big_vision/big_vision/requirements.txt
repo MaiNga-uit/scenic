@@ -1,4 +1,4 @@
-#numpy==1.24.3
+numpy==1.23.5
 absl-py
 git+https://github.com/google/CommonLoopUtils
 einops
@@ -12,3 +12,8 @@ tfds-nightly
 tensorflow-addons
 tensorflow-text
 tensorflow-gan
+fastapi
+kaleido
+python-multipart
+uvicorn
+lida==0.0.10
