@@ -51,7 +51,7 @@ NUM_PARALLEL_CALLS = tf.data.AUTOTUNE
 DECODERS = {
     'visual_genome:1.0.0':
         label_ops.DecodeVisualGenome,
-    'lvis:1.2.0':
+    'lvis:1.3.0':
         label_ops.DecodeLvis,
     'objects365:0.0.1':
         label_ops.DecodeObjects365,
